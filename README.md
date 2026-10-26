@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Embedded-Print-Workflow-Engine/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Embedded-Print-Workflow-Engine?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Embedded-Print-Workflow-Engine/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Embedded-Print-Workflow-Engine?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Print-Workflow-Engine/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Embedded-Print-Workflow-Engine?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Print-Workflow-Engine/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Embedded-Print-Workflow-Engine?style=flat-square&color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Print-Workflow-Engine/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -68,64 +68,64 @@ The table below lists the premier commercial and SaaS embedded print workflow en
 
 The following verified open-source libraries, rasterizers, and prepress utilities provide the building blocks for sovereign, self-hosted print workflow pipelines. **Sorted in descending order by GitHub stargazers count**:
 
-1. **[Typst](https://github.com/typst/typst)** [![GitHub stars](https://img.shields.io/github/stars/typst/typst?style=social&color=white)](https://github.com/typst/typst/stargazers)  
+1. **[Typst](https://github.com/typst/typst)** [![GitHub_Stars](https://img.shields.io/github/stars/typst/typst?style=social&color=white)](https://github.com/typst/typst/stargazers)  
    *High-performance, markup-based typesetting system and document compiler offering sub-second incremental rendering, programmatic layout calculation, and publication-ready PDF export with custom bleed, crop marks, and imposition hooks.*
 
-2. **[libvips](https://github.com/libvips/libvips)** [![GitHub stars](https://img.shields.io/github/stars/libvips/libvips?style=social&color=white)](https://github.com/libvips/libvips/stargazers)  
+2. **[libvips](https://github.com/libvips/libvips)** [![GitHub_Stars](https://img.shields.io/github/stars/libvips/libvips?style=social&color=white)](https://github.com/libvips/libvips/stargazers)  
    *Demand-driven, horizontally streaming image processing engine with ultra-low memory requirements. Essential for massive bitmap tile rendering, raster caching, high-DPI scaling, and multi-gigapixel continuous-tone RIP output.*
 
-3. **[PyMuPDF](https://github.com/pymupdf/PyMuPDF)** [![GitHub stars](https://img.shields.io/github/stars/pymupdf/PyMuPDF?style=social&color=white)](https://github.com/pymupdf/PyMuPDF/stargazers)  
+3. **[PyMuPDF](https://github.com/pymupdf/PyMuPDF)** [![GitHub_Stars](https://img.shields.io/github/stars/pymupdf/PyMuPDF?style=social&color=white)](https://github.com/pymupdf/PyMuPDF/stargazers)  
    *Blazing-fast Python bindings for the MuPDF rendering core. Supports direct PDF parsing, high-resolution bitmap rasterization into Pixmaps, color-space conversions (RGB/CMYK/DeviceGray), and geometric transformations.*
 
-4. **[pypdf](https://github.com/py-pdf/pypdf)** [![GitHub stars](https://img.shields.io/github/stars/py-pdf/pypdf?style=social&color=white)](https://github.com/py-pdf/pypdf/stargazers)  
+4. **[pypdf](https://github.com/py-pdf/pypdf)** [![GitHub_Stars](https://img.shields.io/github/stars/py-pdf/pypdf?style=social&color=white)](https://github.com/py-pdf/pypdf/stargazers)  
    *Pure-Python PDF manipulation toolkit capable of splitting, merging, rotating, cropping, page-scaling, and metadata inspection without any native OS dependencies—ideal for lightweight imposition scripts.*
 
-5. **[WeasyPrint](https://github.com/Kozea/WeasyPrint)** [![GitHub stars](https://img.shields.io/github/stars/Kozea/WeasyPrint?style=social&color=white)](https://github.com/Kozea/WeasyPrint/stargazers)  
+5. **[WeasyPrint](https://github.com/Kozea/WeasyPrint)** [![GitHub_Stars](https://img.shields.io/github/stars/Kozea/WeasyPrint?style=social&color=white)](https://github.com/Kozea/WeasyPrint/stargazers)  
    *Web-to-print document factory converting HTML5 and CSS3 into print-ready PDFs. Features built-in CSS Paged Media support (`@page`), CMYK output intents, crop/bleed registration marks, and ICC color profile attachment.*
 
-6. **[pdfcpu](https://github.com/pdfcpu/pdfcpu)** [![GitHub stars](https://img.shields.io/github/stars/pdfcpu/pdfcpu?style=social&color=white)](https://github.com/pdfcpu/pdfcpu/stargazers)  
+6. **[pdfcpu](https://github.com/pdfcpu/pdfcpu)** [![GitHub_Stars](https://img.shields.io/github/stars/pdfcpu/pdfcpu?style=social&color=white)](https://github.com/pdfcpu/pdfcpu/stargazers)  
    *Extremely fast Go-based PDF processing library and CLI. Native support for complex N-up imposition, booklet creation, grid arrangement, watermark embedding, page trimming, and structural PDF validation.*
 
-7. **[PDFMiner.six](https://github.com/pdfminer/pdfminer.six)** [![GitHub stars](https://img.shields.io/github/stars/pdfminer/pdfminer.six?style=social&color=white)](https://github.com/pdfminer/pdfminer.six/stargazers)  
+7. **[PDFMiner.six](https://github.com/pdfminer/pdfminer.six)** [![GitHub_Stars](https://img.shields.io/github/stars/pdfminer/pdfminer.six?style=social&color=white)](https://github.com/pdfminer/pdfminer.six/stargazers)  
    *Comprehensive PDF analysis tool designed to extract exact physical coordinates of glyphs, font families, bounding boxes, and images for rigorous automated prepress quality control.*
 
-8. **[PDF Arranger](https://github.com/pdfarranger/pdfarranger)** [![GitHub stars](https://img.shields.io/github/stars/pdfarranger/pdfarranger?style=social&color=white)](https://github.com/pdfarranger/pdfarranger/stargazers)  
+8. **[PDF Arranger](https://github.com/pdfarranger/pdfarranger)** [![GitHub_Stars](https://img.shields.io/github/stars/pdfarranger/pdfarranger?style=social&color=white)](https://github.com/pdfarranger/pdfarranger/stargazers)  
    *Interactive GTK/Python GUI application for rearranging, splitting, merging, cropping, and duplex-adjusting PDF pages; provides an intuitive visual verification layer for imposition proofing.*
 
-9. **[QPDF](https://github.com/qpdf/qpdf)** [![GitHub stars](https://img.shields.io/github/stars/qpdf/qpdf?style=social&color=white)](https://github.com/qpdf/qpdf/stargazers)  
+9. **[QPDF](https://github.com/qpdf/qpdf)** [![GitHub_Stars](https://img.shields.io/github/stars/qpdf/qpdf?style=social&color=white)](https://github.com/qpdf/qpdf/stargazers)  
    *C++ transformation engine and CLI utility for structural PDF inspection, linearization (web-optimization), object encryption/decryption, and stream normalization in automated prepress pipelines.*
 
-10. **[MuPDF](https://github.com/ArtifexSoftware/mupdf)** [![GitHub stars](https://img.shields.io/github/stars/ArtifexSoftware/mupdf?style=social&color=white)](https://github.com/ArtifexSoftware/mupdf/stargazers)  
+10. **[MuPDF](https://github.com/ArtifexSoftware/mupdf)** [![GitHub_Stars](https://img.shields.io/github/stars/ArtifexSoftware/mupdf?style=social&color=white)](https://github.com/ArtifexSoftware/mupdf/stargazers)  
     *Compact, ultra-fast C rendering engine for PDF, XPS, and OpenXPS; built by Artifex for embedded hardware controllers, mobile print clients, and high-fidelity page rasterization.*
 
-11. **[pikepdf](https://github.com/pikepdf/pikepdf)** [![GitHub stars](https://img.shields.io/github/stars/pikepdf/pikepdf?style=social&color=white)](https://github.com/pikepdf/pikepdf/stargazers)  
+11. **[pikepdf](https://github.com/pikepdf/pikepdf)** [![GitHub_Stars](https://img.shields.io/github/stars/pikepdf/pikepdf?style=social&color=white)](https://github.com/pikepdf/pikepdf/stargazers)  
     *Python library wrapping QPDF with a pythonic API for low-level PDF object trees. Enables programmatic manipulation of color profiles, PDF/X output intents, metadata dictionaries, and XObjects.*
 
-12. **[CUPS (OpenPrinting)](https://github.com/OpenPrinting/cups)** [![GitHub stars](https://img.shields.io/github/stars/OpenPrinting/cups?style=social&color=white)](https://github.com/OpenPrinting/cups/stargazers)  
+12. **[CUPS (OpenPrinting)](https://github.com/OpenPrinting/cups)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenPrinting/cups?style=social&color=white)](https://github.com/OpenPrinting/cups/stargazers)  
     *The industry-standard open-source printing system for macOS, Linux, and Unix-like operating systems. Manages print queues, spooling, device discovery via IPP Everywhere / mDNS, and filter pipeline dispatching.*
 
-13. **[Little CMS (lcms2)](https://github.com/mm2/Little-CMS)** [![GitHub stars](https://img.shields.io/github/stars/mm2/Little-CMS?style=social&color=white)](https://github.com/mm2/Little-CMS/stargazers)  
+13. **[Little CMS (lcms2)](https://github.com/mm2/Little-CMS)** [![GitHub_Stars](https://img.shields.io/github/stars/mm2/Little-CMS?style=social&color=white)](https://github.com/mm2/Little-CMS/stargazers)  
     *The canonical open-source Color Management Module (CMM). Delivers fast, mathematically rigorous color transforms between ICC profiles (CMYK, RGB, Lab, Gray) with black-point compensation and multi-profile proofing.*
 
-14. **[Scribus](https://github.com/scribusproject/scribus)** [![GitHub stars](https://img.shields.io/github/stars/scribusproject/scribus?style=social&color=white)](https://github.com/scribusproject/scribus/stargazers)  
+14. **[Scribus](https://github.com/scribusproject/scribus)** [![GitHub_Stars](https://img.shields.io/github/stars/scribusproject/scribus?style=social&color=white)](https://github.com/scribusproject/scribus/stargazers)  
     *Full-featured desktop publishing suite with native CMYK color separations, spot color palettes (Open Colour Consortium), PDF/X-1a/PDF/X-3/PDF/X-4 export, and booklet signature generation.*
 
-15. **[pdfjam](https://github.com/pdfjam/pdfjam)** [![GitHub stars](https://img.shields.io/github/stars/pdfjam/pdfjam?style=social&color=white)](https://github.com/pdfjam/pdfjam/stargazers)  
+15. **[pdfjam](https://github.com/pdfjam/pdfjam)** [![GitHub_Stars](https://img.shields.io/github/stars/pdfjam/pdfjam?style=social&color=white)](https://github.com/pdfjam/pdfjam/stargazers)  
     *Shell script interface leveraging LaTeX `pdfpages` for rapid batch imposition, N-up page consolidation, booklet signature pagination, and custom paper trimming.*
 
-16. **[veraPDF](https://github.com/veraPDF/veraPDF-library)** [![GitHub stars](https://img.shields.io/github/stars/veraPDF/veraPDF-library?style=social&color=white)](https://github.com/veraPDF/veraPDF-library/stargazers)  
+16. **[veraPDF](https://github.com/veraPDF/veraPDF-library)** [![GitHub_Stars](https://img.shields.io/github/stars/veraPDF/veraPDF-library?style=social&color=white)](https://github.com/veraPDF/veraPDF-library/stargazers)  
     *The industry-reference, ISO-compliant open-source validator for PDF/A and PDF/X standards. Used by prepress departments to ensure compliance before burning plates or sending jobs to digital presses.*
 
-17. **[Ghostscript / GhostPDL](https://github.com/ArtifexSoftware/ghostpdl)** [![GitHub stars](https://img.shields.io/github/stars/ArtifexSoftware/ghostpdl?style=social&color=white)](https://github.com/ArtifexSoftware/ghostpdl/stargazers)  
+17. **[Ghostscript / GhostPDL](https://github.com/ArtifexSoftware/ghostpdl)** [![GitHub_Stars](https://img.shields.io/github/stars/ArtifexSoftware/ghostpdl?style=social&color=white)](https://github.com/ArtifexSoftware/ghostpdl/stargazers)  
     *The historic foundational open-source PostScript 3 and PDF interpreter/rasterizer. Serves as a full software RIP converting vector geometries, glyphs, and images into device-dependent raster buffers.*
 
-18. **[cups-filters (OpenPrinting)](https://github.com/OpenPrinting/cups-filters)** [![GitHub stars](https://img.shields.io/github/stars/OpenPrinting/cups-filters?style=social&color=white)](https://github.com/OpenPrinting/cups-filters/stargazers)  
+18. **[cups-filters (OpenPrinting)](https://github.com/OpenPrinting/cups-filters)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenPrinting/cups-filters?style=social&color=white)](https://github.com/OpenPrinting/cups-filters/stargazers)  
     *Essential conversion filters (`pdftoraster`, `rastertopclx`, `texttopdf`) and driverless printer backends that translate universal PDF print streams into raw device bitstreams on non-Mac platforms.*
 
-19. **[Inkhaven](https://github.com/vulogov/blackInkhaven)** [![GitHub stars](https://img.shields.io/github/stars/vulogov/blackInkhaven?style=social&color=white)](https://github.com/vulogov/blackInkhaven/stargazers)  
+19. **[Inkhaven](https://github.com/vulogov/blackInkhaven)** [![GitHub_Stars](https://img.shields.io/github/stars/vulogov/blackInkhaven?style=social&color=white)](https://github.com/vulogov/blackInkhaven/stargazers)  
     *Rust-based terminal prepress and book imposition engine featuring automated signature creation, creep compensation calculations, dynamic spine sizing, and ISBN barcode generation.*
 
-20. **[CIP4 JDFEditor](https://github.com/cip4/JDFEditor)** [![GitHub stars](https://img.shields.io/github/stars/cip4/JDFEditor?style=social&color=white)](https://github.com/cip4/JDFEditor/stargazers)  
+20. **[CIP4 JDFEditor](https://github.com/cip4/JDFEditor)** [![GitHub_Stars](https://img.shields.io/github/stars/cip4/JDFEditor?style=social&color=white)](https://github.com/cip4/JDFEditor/stargazers)  
     *Reference application from the CIP4 Consortium to display, edit, and validate Job Definition Format (JDF) documents and JMF messages for automated prepress, press, and postpress communications.*
 
 ---
